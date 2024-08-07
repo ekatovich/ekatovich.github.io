@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erik Katovich"
+title                    : "Jose Villegas"
 title_separator          : "-"
-name                     : &name "Erik Katovich"
-description              : &description "Postdoctoral Scholar at University of Geneva"
-url                      : "https://ekatovich.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jose Villegas"
+description              : &description "Postdoctoral Researcher at University of Ghent"
+url                      : "https://josevillegaseco.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
-repository               : "ekatovich.github.io"
+repository               : "josevillegaseco.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -69,17 +69,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erik Katovich"
+  name             : "Jose Villegas"
   avatar           : "Erik_Headshot_2021.jpg"
-  bio              : "Postdoctoral Scholar at University of Geneva"
-  location         : "Geneva, Switzerland"
-  googlescholar    : "https://scholar.google.com/citations?user=W8I9WawAAAAJ&hl=en"
-  email            : "erik.katovich@unige.ch"
+  bio              : "Postdoctoral Researcher at University of Ghent"
+  location         : "Ghent, Belgium"
+  googlescholar    : "https://scholar.google.com/citations?user=a8nni_AAAAAJ&hl=en" 
+  email            : "jose.villegas@ughent.be"
   researchgate     : #"https://www.researchgate.net/profile/Erik_Katovich"
-  github           : "ekatovich"
+  github           : "josevillegaseco"
   linkedin         : #"https://www.linkedin.com/in/erik-katovich-a20994160/"
-  twitter          : "@ErikKatovich"
-  orcid            : "https://orcid.org/0000-0001-9974-2992"
+  twitter          : #"@ErikKatovich"
+  orcid            : "https://orcid.org/0000-0002-7593-1315"
+
 
 # Reading Files
 include:
