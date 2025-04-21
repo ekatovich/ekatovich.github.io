@@ -21,7 +21,7 @@ effective writing, causal inference tools, data visualization, reproducible codi
 communication of research findings, research ethics, and peer feedback and review.
 <br/>
 [Syllabus](/files/Syllabus_ARE_5203_6203.pdf){:target="_blank"} 
-
+[Slides](https://www.dropbox.com/scl/fo/bchk4vnzeycewrwp7ttuk/ACUMORqvqALiMKDL8kGoj7k?rlkey=6fe6weemap0rxt9fqimg4frt0&st=ea829d69&dl=0){:target="_blank"} 
 
          
 
