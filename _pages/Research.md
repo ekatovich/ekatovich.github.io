@@ -14,14 +14,17 @@ author_profile: false
 Journal of Development Economics, Vol. 166 (2024)<br/>
 [Published Version](https://www.sciencedirect.com/science/article/pii/S0304387823001608?dgcid=SSRN_redirect_SD&ssrnid=4359168){:target="_blank"} &nbsp; [Slides](/files/Katovich_Winning_the_Resource_Lottery_Slides.pdf){:target="_blank"} &nbsp; [Replication Package](https://zenodo.org/records/10688029){:target="_blank"} 
  <br/>
+ <small>
  Media Coverage: &nbsp; [VoxDev](https://voxdev.org/topic/public-economics/unpredictable-oil-discoveries-fail-deliver-local-development-benefits) &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) &nbsp; [Grist](https://grist.org/international/african-countries-tapping-fossil-fuel-wealth-getting-rich-mozambique/) 
+</small>
 
 **Quantifying the Effects of Energy Infrastructure on Bird Populations and Biodiversity**  
 Environmental Science and Technology, Vol. 58(1), pp. 323–332 (2024)<br/> 
 [Published Version](https://pubs.acs.org/doi/10.1021/acs.est.3c03899){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Birds_and_Energy_Infrastructure_PrePrint.pdf){:target="_blank"} &nbsp; [Slides](/files/BPQ_Presentation.pdf){:target="_blank"} &nbsp; [Replication Package](https://github.com/ekatovich/Birds_and_Energy_Infrastructure)
 <br/> 
+</small>
 Media Coverage: &nbsp; [The Economist](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling){:target="_blank"} &nbsp; [Los Angeles Times](https://www.latimes.com/environment/newsletter/2024-01-11/column-yes-wind-turbines-kill-birds-but-fracking-is-much-worse-boiling-point){:target="_blank"} &nbsp; [Die Presse (Austria)](https://www.diepresse.com/17998356/windraeder-schaden-den-voegeln-nicht){:target="_blank"} &nbsp; [Courrier International (France)](https://www.courrierinternational.com/article/biodiversite-les-eoliennes-tueuses-d-oiseaux-un-argument-a-relativiser){:target="_blank"} &nbsp; [Focus Online (Germany)](https://www.focus.de/auto/elektroauto/news/windkraft-und-voegel-forscher-zeigen-was-die-tiere-wirklich-gefaehrdet_id_259578605.html){:target="_blank"} &nbsp; [BNNVARA (Netherlands)](https://www.bnnvara.nl/joop/artikelen/vogels-halen-schouders-op-over-windmolens-maar-verafschuwen-olie-en-gasboringen){:target="_blank"} &nbsp; [El Imparcial (Mexico)](https://www.elimparcial.com/tecnologia/Estudio-revela-que-los-aerogeneradores-son-mas-amigables-con-las-aves-que-la-industria-del-petroleo-y-gas-20240116-0145.html){:target="_blank"} &nbsp; [El Nacional (Spain)](https://www.elnacional.cat/oneconomia/es/sostenibilidad/jaume-morron-navarra-ha-installat-10-vegades-mes-renovables-catalunya-en-darrers-8-anys_1151787_102.html){:target="_blank"} &nbsp; [ETC (Sweden)](https://www.etc.se/klimat-miljo/ny-studie-vindkraft-mindre-skadligt-foer-faaglar-aen-fossil-energi){:target="_blank"} &nbsp; [Le Temps (Switzerland)](https://www.letemps.ch/sciences/environnement/les-eoliennes-sont-moins-dangereuses-pour-les-oiseaux-que-la-production-de-petrole){:target="_blank"} &nbsp; [Tages Anzeiger (Switzerland)](https://www.tagesanzeiger.ch/windenergie-vogelfreundlicher-als-foerderung-von-oel-und-gas-256597540201){:target="_blank"} &nbsp; [Basler Zeitung (Switzerland)](https://www.bazonline.ch/windenergie-vogelfreundlicher-als-foerderung-von-oel-und-gas-256597540201){:target="_blank"} &nbsp; [Berner Zeitung (Switzerland)](https://www.bernerzeitung.ch/windenergie-vogelfreundlicher-als-foerderung-von-oel-und-gas-256597540201){:target="_blank"} &nbsp; [Der Bund (Switzerland)](https://www.derbund.ch/windenergie-vogelfreundlicher-als-foerderung-von-oel-und-gas-256597540201){:target="_blank"} &nbsp; [Enrique Dans (Medium Blog)](https://medium.com/enrique-dans/dont-take-my-word-for-it-the-science-shows-that-wind-turbines-do-not-harm-birdlife-be5123d777c1){:target="_blank"} &nbsp; [Big Pivots (USA)](https://bigpivots.com/study-examines-impacts-of-wind-farms-on-birds-and-also-fossil-fuel-drilling/){:target="_blank"}
-
+</small>
 
 **The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis** <br/>
 (_with [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)_)<br/>
@@ -36,9 +39,9 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 # **Working Papers**<br/>
 
-**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_Under Review_) &nbsp; (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
+**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_Under Review_) (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
 
-**Critical Mining Contributes to Economic Growth and Forest Loss in High-Corruption Settings** (_Under Review_) &nbsp; (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> [Working Paper](/files/Katovich_Rexer_CriticalMining_WP.pdf){:target="_blank"}<br/> 
+**Critical Mining Contributes to Economic Growth and Forest Loss in High-Corruption Settings** (_Under Review_) (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> [Working Paper](/files/Katovich_Rexer_CriticalMining_WP.pdf){:target="_blank"}<br/> 
 
 **Local and Multinational Comparative Advantage in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} &nbsp; [STEG Working Paper](https://steg.cepr.org/sites/default/files/2025-04/WP108_Das_Katovich_Rexer_Compartive_Local.pdf){:target="_blank"}<br/> 
 
