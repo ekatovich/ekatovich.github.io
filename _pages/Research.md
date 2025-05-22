@@ -36,7 +36,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 # **Working Papers**<br/>
 
-**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_Under Review_) <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
+**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_Under Review_) (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
 
 **Critical Mining Contributes to Economic Growth and Forest Loss in High-Corruption Settings** (_Under Review_) <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> [Working Paper](/files/Katovich_Rexer_CriticalMining_WP.pdf){:target="_blank"}<br/> 
 
@@ -51,7 +51,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 **Traceability and Sustainability in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://utsoree.github.io/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
-**Dynamic Adaptation to Sanctions: Evidence from Russian Oil Fields**
+**Dynamic Adaptation to Sanctions: Within-Firm Evidence from the Oil Industry**
 
 **Supply Response to Oil Production Taxes: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)<br/> 
 <details><summary>Click for Details</summary>
