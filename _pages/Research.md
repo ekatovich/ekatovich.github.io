@@ -38,6 +38,8 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 **Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_Under Review_) <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
 
+**Critical Mining Contributes to Economic Growth and Forest Loss in High-Corruption Settings** (_Under Review_) <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> [Working Paper](/files/Katovich_Rexer_CriticalMining_WP.pdf){:target="_blank"}<br/> 
+
 **Local and Multinational Comparative Advantage in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} &nbsp; [STEG Working Paper](https://steg.cepr.org/sites/default/files/2025-04/WP108_Das_Katovich_Rexer_Compartive_Local.pdf){:target="_blank"}<br/> 
 
 **Firm-Level Impacts and Spillovers of a Local Content Requirement** <br/>
