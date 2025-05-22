@@ -37,24 +37,12 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 # **Working Papers**<br/>
 
 **Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_Under Review_) <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
-<details><summary>Click for Abstract</summary>
-<font size="-1"> Oil theft from pipelines funds armed criminal groups around the world. We show that a 2019 crackdown on oil theft in Mexico prompted criminal groups to diversify into gas theft, a more technologically challenging and dangerous activity. This adaptive response to enforcement increased cartel presence by 18% and homicide rates by 19% in municipalities hosting gas pipeline infrastructure. Cartel diversification into gas theft was concentrated in places neighboring oil pipelines and driven most strongly by cartels previously specialized in oil theft. The emergence of large-scale gas theft in Mexico presages threats to gas infrastructure worldwide and reveals how law enforcement crackdowns can provoke criminal diversification into spatially and technologically related activities – spreading violence into previously unaffected areas. </font>
-<br/>
-</details> 
+
 
 **Local and Multinational Comparative Advantage in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} &nbsp; [STEG Working Paper](https://steg.cepr.org/sites/default/files/2025-04/WP108_Das_Katovich_Rexer_Compartive_Local.pdf){:target="_blank"}<br/> 
-<details><summary>Click for Abstract</summary>
-<font size="-1"> Empirical evidence and economic theory suggest multinational firms are more productive than their local counterparts. What explains the persistence of local firms and the recent surge in local content policies? Using a global database of corporate ownership changes for 35,567 commercial mines between 2000-2022, we test whether local firms have a comparative advantage in dealing with weak institutions, corruption, and conflict, which could attenuate or reverse the multinational advantage. We confirm that, on average, output declines by 8% after mines are taken over by local firms. Localized assets also exhibit higher air pollution, indicating lower operational quality. However, in states with weak governance, localization increases mine output by 8%. Local firms also generate more economic activity, urbanization, and non-agricultural employment around mines, indicating stronger local linkages. While multinational mining firms exhibit increasing returns to scale, local firms exhibit decreasing returns, suggesting they may grow based on their ability to navigate institutional weaknesses rather than their productivity. Results highlight the role of institutions in determining relative advantages of multinational versus local firms.  </font>
-<br/>
-</details> 
-<br/>
 
 **Firm-Level Impacts and Spillovers of a Local Content Requirement** <br/>
-(_with Fabio Maciel_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers)
-<details><summary>Click for Abstract</summary>
-<font size="-1">Update coming soon.</font>
-<br/>
-</details> 
+(_with Fabio Maciel_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/> [Working Paper Coming Soon!]
 
 # **Work in Progress**<br/>
 
