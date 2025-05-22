@@ -38,15 +38,14 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 **Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_Under Review_) <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Manuscript.pdf){:target="_blank"}<br/> 
 
-
 **Local and Multinational Comparative Advantage in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} &nbsp; [STEG Working Paper](https://steg.cepr.org/sites/default/files/2025-04/WP108_Das_Katovich_Rexer_Compartive_Local.pdf){:target="_blank"}<br/> 
 
 **Firm-Level Impacts and Spillovers of a Local Content Requirement** <br/>
-(_with Fabio Maciel_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/> [Working Paper Coming Soon!]
+(_with Fabio Maciel_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/> [Working Paper Coming Soon!] <br/>
 
 # **Work in Progress**<br/>
 
-**Structural Transformation and Politics: Evidence from Brazil's Agrobusiness Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
+**The Politics of Structural Transformation: Evidence from Brazil's Agrobusiness Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
 
 **Traceability and Sustainability in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://utsoree.github.io/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
