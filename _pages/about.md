@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Welcome! I am an Assistant Professor of Environmental and Resource Economics at the [University of Connecticut](https://are.uconn.edu/). 
+Welcome! I am an Assistant Professor at the [University of Connecticut](https://are.uconn.edu/). 
 <br/>
 
 My research focuses on environmental and resource economics, development economics, and political economy. I use econometric and geospatial tools to study natural resource governance and the effects of resource booms and energy transitions on governments, firms, workers, and the environment.  <br/>
