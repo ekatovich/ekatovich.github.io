@@ -6,6 +6,12 @@ author_profile: false
 ---
 # **Courses**<br/> 
 
+**Energy Economics: Sustainable Transitions** <br/> (_Undergraduate_) <br/> 
+Course Description: This course explores the economics of transitioning toward cleaner and more sustainable energy systems. We will examine how societies produce and use energy, the role of fossil fuels and critical minerals, and the growing importance of renewable and green technologies. We will discuss opportunities and challenges associated with decarbonizing electricity generation and energy consumption. Recurring themes will include connections between energy and economic development, environmental and distributional impacts, and the role of public policies. Throughout the semester, you will engage with real-world debates, case studies, and application of concepts from energy economics to understand our rapidly evolving energy system. </font>
+<br/>
+[Syllabus](/files/ARE_2250E_Syllabus.pdf){:target="_blank"} 
+<br/>
+
 **Global Energy Transitions** (_Masters/PhD_) <br/> 
 Course Description: In this course, students will engage with recent theoretical and empirical research on the economics 
 of clean energy transitions from a global perspective. Topics include fossil fuel extraction, critical minerals and metals, renewable and green technologies, 
