@@ -1,7 +1,7 @@
 ---
-title: "Data and Code"
-permalink: /datacode/
-author_profile: false
+#title: "Data and Code"
+#permalink: /datacode/
+#author_profile: false
 ---
 <br/>
 # **Brazilian Data Resources**<br/> 
