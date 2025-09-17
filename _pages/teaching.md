@@ -7,20 +7,17 @@ author_profile: false
 # **Courses**<br/> 
 
 **Energy Economics: Sustainable Transitions** (_Undergraduate_) <br/> 
-Course Description: This course explores the economics of transitioning toward cleaner and more sustainable energy systems. We will examine how societies produce and use energy, the role of fossil fuels and critical minerals, and the growing importance of renewable and green technologies. We will discuss opportunities and challenges associated with decarbonizing electricity generation and energy consumption. Recurring themes will include connections between energy and economic development, environmental and distributional impacts, and the role of public policies. Throughout the semester, you will engage with real-world debates, case studies, and application of concepts from energy economics to understand our rapidly evolving energy system. 
+This course explores the economics of transitioning toward cleaner and more sustainable energy systems. We will examine how societies produce and use energy, the role of fossil fuels and critical minerals, and the growing importance of renewable and green technologies. We will discuss opportunities and challenges associated with decarbonizing electricity generation and energy consumption. Recurring themes will include connections between energy and economic development, environmental and distributional impacts, and the role of public policies. Throughout the semester, you will engage with real-world debates, case studies, and application of concepts from energy economics to understand our rapidly evolving energy system. 
 [Syllabus](/files/ARE_2250E_Syllabus.pdf){:target="_blank"} 
 <br/>
 
 **Global Energy Transitions** (_Masters/PhD_) <br/> 
-Course Description: In this course, students will engage with recent theoretical and empirical research on the economics 
-of clean energy transitions from a global perspective. Topics include fossil fuel extraction, critical minerals and metals, renewable and green technologies, 
-and electricity generation, transmission, and consumption. Cross-cutting themes include energy poverty and development, industrial and climate policies, 
-environmental impacts, and political economy.  
+In this course, students will engage with recent theoretical and empirical research on the economics of clean energy transitions from a global perspective. Topics include fossil fuel extraction, critical minerals and metals, renewable and green technologies, and electricity generation, transmission, and consumption. Cross-cutting themes include energy poverty and development, industrial and climate policies, environmental impacts, and political economy.  
 [Syllabus](/files/Syllabus_GlobalEnergyTransitions.pdf){:target="_blank"} 
 <br/>
 
 **Economics Methodology: Praxis and Practice** (_Masters/PhD_) <br/> 
-Course Description: This course guides students through the process of writing an original research paper in applied economics. The focus is on development of practical skills and professional practice, including generation of research ideas, literature review, effective writing, causal inference tools, data visualization, reproducible coding, project management, effective presentation and communication of research findings, research ethics, and peer feedback and review.
+This course guides students through the process of writing an original research paper in applied economics. The focus is on development of practical skills and professional practice, including generation of research ideas, literature review, effective writing, causal inference tools, data visualization, reproducible coding, project management, effective presentation and communication of research findings, research ethics, and peer feedback and review.
 <br/>
 [Syllabus](/files/Syllabus_ARE_5203_6203.pdf){:target="_blank"} &nbsp; 
 [Slides](https://www.dropbox.com/scl/fo/bchk4vnzeycewrwp7ttuk/ACUMORqvqALiMKDL8kGoj7k?rlkey=6fe6weemap0rxt9fqimg4frt0&st=ea829d69&dl=0){:target="_blank"} 
