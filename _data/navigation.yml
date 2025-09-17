@@ -10,8 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Data and Code"
-    url: /datacode/    
+  # - title: "Data and Code"
+  #   url: /datacode/
     
   - title: "Contact"
     url: /contact/
