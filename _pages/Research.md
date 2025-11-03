@@ -38,7 +38,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 # **Working Papers**<br/>
 
 **Dynamic Firm Adaptation to Sanctions: Evidence from the Russian Oil Industry**<br/>
-<small> [Draft Coming Soon!] <br/> </small>
+<small> [Draft Available Upon Request] <br/> </small>
 
 **Local and Multinational Comparative Advantage in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} &nbsp; [STEG Working Paper](https://steg.cepr.org/sites/default/files/2025-04/WP108_Das_Katovich_Rexer_Compartive_Local.pdf){:target="_blank"}<br/> </small>
 
