@@ -56,11 +56,6 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 **Traceability and Sustainability in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://utsoree.github.io/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
 **Supply Response to Oil Production Taxes: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)<br/> 
-<details><summary>Click for Details</summary>
-<font size="-1"> Description: Supply-side climate policies are receiving increasing attention from governments. For instance, the US is currently considering a major overhaul of rules governing oil extraction on federal lands – which have remained unchanged for nearly a century. We exploit lease-level variation introduced by a temporary royalty relief policy in 2020 to estimate the effects of changes in oil extraction taxes on drilling activity, oil and gas production, and royalty revenues. We assemble a month-lease panel covering drilling and production on all federal oil and gas leases in the contiguous United States between 2005-2022 that accounts for allocation agreements across leases. Using a difference-in-differences strategy that compares outcomes on leases approved for royalty relief with similar untreated leases, we find that royalty reductions lead to immediate increases in the number of producing wells (extensive margin), but also in production from already active wells (intensive margin). Evidence of an intensive-margin response differs from previous studies focused on conventional oil production, suggesting unconventional leases may be more reactive in the short run. Our estimates allow us to quantify the effects of proposed US oil extraction tax reforms on oil and gas production, public revenues, and carbon emissions. </font>
-<br/>
- Status: Drafting working paper
-</details> 
 
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
