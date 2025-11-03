@@ -59,6 +59,8 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
+**From Crops to Kilowatts: Drivers of Solar Adoption in California’s Central Valley** <br/> (_with Cam McClure_)
+
 
  
 
