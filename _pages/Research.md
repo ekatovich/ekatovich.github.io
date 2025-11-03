@@ -37,6 +37,9 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 # **Working Papers**<br/>
 
+**Dynamic Firm Adaptation to Sanctions: Evidence from the Russian Oil Industry**<br/>
+<small> [Draft Coming Soon!] <br/> </small>
+
 **Local and Multinational Comparative Advantage in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} &nbsp; [STEG Working Paper](https://steg.cepr.org/sites/default/files/2025-04/WP108_Das_Katovich_Rexer_Compartive_Local.pdf){:target="_blank"}<br/> </small>
 
 **The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> <small> [Working Paper](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"}<br/> </small>
@@ -51,8 +54,6 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 **Seeds of Influence: The Political Economy of Brazil's Soy Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
 
 **Traceability and Sustainability in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://utsoree.github.io/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
-
-**Dynamic Firm Adaptation to Sanctions: Evidence from the Russian Oil Industry**
 
 **Supply Response to Oil Production Taxes: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)<br/> 
 <details><summary>Click for Details</summary>
