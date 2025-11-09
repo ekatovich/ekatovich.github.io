@@ -22,7 +22,7 @@ author_profile: false
 **Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_Conditionally Accepted at The Economic Journal_) <br/>   <small> [Working Paper](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"}  </small>
 
 **Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/)_) <br/>
-JAERE, Vol. 13, No. 1. (forthcoming)<br/>
+Journal of the Association of Environmental and Resource Economists, Vol. 13, No. 1. (forthcoming)<br/>
 <small> [Journal Link](https://www.journals.uchicago.edu/doi/10.1086/736752){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Parker_Poelhekke_TimingIsEverything.pdf){:target="_blank"} &nbsp; [CEPR Discussion Paper](https://cepr.org/publications/dp17887) &nbsp; [Slides (English)](/files/Katovich_Timing_is_Everything_Slides.pdf){:target="_blank"} &nbsp; [Slides (Portuguese)](/files/Katovich_Ipea_Slides.pdf){:target="_blank"} &nbsp; [Ipea Webinar (Portuguese)](https://www.youtube.com/watch?v=oqSdEmHB6YA){:target="_blank"}  </small>
 
 **Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> 
