@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: single
 title: ""
 permalink: /Research/
 author_profile: false
+classes: wide
 ---
-# **Publications**<br/> 
 
 **Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_Conditionally Accepted at The Economic Journal_) <br/>   <small> [Working Paper](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"}  </small>
 
