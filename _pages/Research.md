@@ -21,7 +21,7 @@ author_profile: false
 
 # **Publications**<br/>
 
-**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_Conditionally Accepted at The Economic Journal_) <br/>   <small> [Working Paper](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"}  </small>
+**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** (_with [Fanny Moffette](https://fannymoffette.com/)_) (_Conditionally Accepted at The Economic Journal_) <br/>   <small> [Working Paper](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"}  </small>
 
 **Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/)_) <br/>
 Journal of the Association of Environmental and Resource Economists, Vol. 13, No. 1. (forthcoming)<br/>
