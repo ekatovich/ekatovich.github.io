@@ -7,8 +7,10 @@ classes: wide
 ---
 
 <style>
+.page {
+  padding-left: 2em;
+}
 .page__content {
-  max-width: 100%;
   text-align: left;
 }
 </style>
