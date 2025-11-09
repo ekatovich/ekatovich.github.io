@@ -1,27 +1,21 @@
 ---
-layout: single
+layout: archive
 title: ""
 permalink: /Research/
 author_profile: false
-classes: wide
 ---
 
 <style>
 .page__inner-wrap {
   max-width: none !important;
+  margin: 0 !important;
   padding-left: 2em !important;
-  padding-right: 2em !important;
 }
 
-.page__content {
+.archive {
+  width: 100% !important;
+  max-width: none !important;
   margin-left: 0 !important;
-  margin-right: auto !important;
-  text-align: left !important;
-  max-width: 100% !important;
-}
-
-h1, h2, h3, p, ul, ol {
-  text-align: left !important;
 }
 </style>
 
