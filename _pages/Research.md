@@ -7,11 +7,21 @@ classes: wide
 ---
 
 <style>
-.page {
-  padding-left: 2em;
+.page__inner-wrap {
+  max-width: none !important;
+  padding-left: 2em !important;
+  padding-right: 2em !important;
 }
+
 .page__content {
-  text-align: left;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+  text-align: left !important;
+  max-width: 100% !important;
+}
+
+h1, h2, h3, p, ul, ol {
+  text-align: left !important;
 }
 </style>
 
