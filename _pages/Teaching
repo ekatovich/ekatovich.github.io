@@ -4,6 +4,21 @@ title: ""
 permalink: /Teaching/
 author_profile: false
 ---
+
+<style>
+.page__inner-wrap {
+  max-width: none !important;
+  margin: 0 !important;
+  padding-left: 2em !important;
+}
+
+.archive {
+  width: 100% !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+}
+</style>
+
 # **Courses**<br/> 
 
 **Energy Economics: Sustainable Transitions** <br/> (_Undergraduate_) <br/> 
