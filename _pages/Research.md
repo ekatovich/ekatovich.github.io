@@ -21,8 +21,9 @@ author_profile: false
 
 # **Publications**<br/>
 
-**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/>
-The Economic Journal (2025) <br/>   <small> [Journal Link](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueaf123/8381223?redirectedFrom=fulltext){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"} &nbsp; [Replication Package](https://zenodo.org/records/17536487){:target="_blank"}  </small>
+**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/>
+The Economic Journal (2025) <br/>   <small> [Journal Link](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueaf123/8381223?redirectedFrom=fulltext){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"} &nbsp; [Replication Package](https://zenodo.org/records/17536487){:target="_blank"}   <br/>
+ Media Coverage: &nbsp; [UConn Today](https://today.uconn.edu/2026/01/how-political-influence-shapes-agricultural-expansion-in-the-amazon/) </small>
 
 **Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/)_) <br/>
 Journal of the Association of Environmental and Resource Economists, Vol. 13, No. 1. (2025) <br/>
