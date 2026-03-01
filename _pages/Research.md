@@ -59,26 +59,29 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 **Slaying Giants? Dynamic Impacts of Sanctions on Russian Oil Companies**<br/>
 <small> [Draft Available Upon Request] <br/> </small>
 
-**Local and Multinational Comparative Advantage in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} &nbsp; [STEG Working Paper](https://steg.cepr.org/sites/default/files/2025-04/WP108_Das_Katovich_Rexer_Compartive_Local.pdf){:target="_blank"}<br/> </small>
+**The Limits of Multinational Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} <br/> </small>
 
-**The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> <small> [Working Paper](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"} &nbsp; [World Bank Report Chapter](https://openknowledge.worldbank.org/server/api/core/bitstreams/9e2dd3d3-1e60-4479-85f9-a0dc318fc359/content){:target="_blank"}<br/> </small>
+**The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> 
+(_Revise and Resubmit at the Oxford Review of Economic Policy) <br/> <small> [Working Paper](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"} &nbsp; [World Bank Report Chapter](https://openknowledge.worldbank.org/server/api/core/bitstreams/9e2dd3d3-1e60-4479-85f9-a0dc318fc359/content){:target="_blank"}<br/> </small>
 
 **Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> <small> [Working Paper](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
 
-**Firm-Level Impacts of Industrial Policy: Evidence from Brazil's Upstream Oil Industry** <br/>
+**From Crops to Kilowatts: Drivers of Solar Adoption in California’s Central Valley** <br/> (_with Cam McClure_)
+
+**Do Local Content Requirements Boost Firm Performance? Evidence from Brazil's Oil Industry** <br/>
 (_with Fabio Maciel_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/> <small> [Draft Coming Soon!] <br/> </small>
 
 # **Work in Progress**<br/>
 
 **Seeds of Influence: The Political Economy of Brazil's Soy Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
 
-**Traceability and Sustainability in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://utsoree.github.io/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
+**Digital Traceability for Deforestation-Free Supply Chains: Evidence from Cocoa Production in Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://utsoree.github.io/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
 **Supply Response to Oil Production Taxes: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)<br/> 
 
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
-**From Crops to Kilowatts: Drivers of Solar Adoption in California’s Central Valley** <br/> (_with Cam McClure_)
+
 
 
  
