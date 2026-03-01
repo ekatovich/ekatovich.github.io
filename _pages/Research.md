@@ -59,7 +59,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 **Slaying Giants? Dynamic Impacts of Sanctions on Russian Oil Companies**<br/>
 <small> [Draft Available Upon Request] <br/> </small>
 
-**The Limits of Multinational Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Latest Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} <br/> </small>
+**The Limits of Multinational Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} <br/> </small>
 
 **The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> 
 (_Revise and Resubmit at the Oxford Review of Economic Policy) <br/> <small> [Working Paper](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"} &nbsp; [World Bank Report Chapter](https://openknowledge.worldbank.org/server/api/core/bitstreams/9e2dd3d3-1e60-4479-85f9-a0dc318fc359/content){:target="_blank"}<br/> </small>
