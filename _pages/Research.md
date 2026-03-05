@@ -66,7 +66,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 **Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> <small> [Working Paper](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
 
-**From Crops to Kilowatts: Solar Adoption in California’s Central Valley** (_with Cam McClure_)
+**Solar Adoption as Agricultural Adaptation: Evidence from California’s Central Valley** (_with Cam McClure_) <br/> <small> [Working Paper](/files/McClure_Katovich_California_Solar_WorkingPaper.pdf){:target="_blank"}<br/> </small>
 
 **Do Local Content Requirements Boost Firm Performance? Evidence from Brazil's Oil Industry** <br/>
 (_with Fabio Maciel_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/> <small> [Draft Coming Soon!] <br/> </small>
