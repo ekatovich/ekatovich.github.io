@@ -57,7 +57,8 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 # **Working Papers**<br/>
 
 **Slaying Giants? Dynamic Impacts of Sanctions on Oil Companies**<br/>
-<small> [Working Paper](/files/Katovich_OilSanctions_WorkingPaper.pdf){:target="_blank"} <br/> </small>
+<small> [Working Paper](/files/Katovich_OilSanctions_WorkingPaper.pdf){:target="_blank"} <br/> 
+Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=FWUhwd-cdUQ&t=1s) </small>
 
 **The Limits of Multinational Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} <br/> </small>
 
