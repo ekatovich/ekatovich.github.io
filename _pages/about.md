@@ -16,6 +16,7 @@ Previously, I was a Postdoctoral Scholar at the [University of Geneva](https://w
 <br/> 
 
 Recent media & public engagement: <br/> <small>
+[Policy Implications Podcast: Oil Sanctions on Russia’s Energy Sector](https://www.youtube.com/watch?v=FWUhwd-cdUQ&t=1s) <br/>
 [UConn Today: A UConn Economist Explains Venezuela's Oil Industry](https://today.uconn.edu/2026/01/can-venezuelas-oil-bring-down-gas-prices-a-uconn-economist-explains/) <br/>
 [Linnaean Society of New York: Are Birds Impacted by Energy Infrastructure?](https://www.linnaeannewyork.org/dr-erik-katovich-how-do-wind-turbines-and-oil-and-gas-infrastructure-affect-birds-empirical-evidence-based-on-citizen-science-data-7-pm-9-9-25/) <br/>
 [Connecticut NPR: The Pros and Cons of Going Nuclear](https://www.ctpublic.org/show/where-we-live/2025-04-17/the-pros-and-cons-of-going-nuclear) <br/>
