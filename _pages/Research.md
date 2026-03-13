@@ -21,6 +21,9 @@ author_profile: false
 
 # **Publications**<br/>
 
+**The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> 
+(The Oxford Review of Economic Policy) <br/> <small> [Pre-Print](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"} &nbsp; [World Bank Report Chapter](https://openknowledge.worldbank.org/server/api/core/bitstreams/9e2dd3d3-1e60-4479-85f9-a0dc318fc359/content){:target="_blank"}<br/> </small>
+
 **Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/>
 The Economic Journal (2025) <br/>   <small> [Journal Link](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueaf123/8381223?redirectedFrom=fulltext){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"} &nbsp; [Replication Package](https://zenodo.org/records/17536487){:target="_blank"}   <br/>
  Media Coverage: &nbsp; [UConn Today](https://today.uconn.edu/2026/01/how-political-influence-shapes-agricultural-expansion-in-the-amazon/) </small>
@@ -61,9 +64,6 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=FWUhwd-cdUQ&t=1s) </small>
 
 **The Limits of Multinational Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_Global_Mining_0319205.pdf){:target="_blank"} <br/> </small>
-
-**The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> 
-(_Revise and Resubmit at the Oxford Review of Economic Policy_) <br/> <small> [Working Paper](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"} &nbsp; [World Bank Report Chapter](https://openknowledge.worldbank.org/server/api/core/bitstreams/9e2dd3d3-1e60-4479-85f9-a0dc318fc359/content){:target="_blank"}<br/> </small>
 
 **Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> <small> [Working Paper](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
 
