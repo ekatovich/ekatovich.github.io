@@ -72,7 +72,7 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 **Solar Adoption as Agricultural Adaptation: Evidence from California’s Central Valley** (_with Cam McClure_) <br/> <small> [Working Paper](/files/McClure_Katovich_California_Solar_WorkingPaper.pdf){:target="_blank"}<br/> </small>
 
 **Do Local Content Requirements Boost Firm Performance? Evidence from Brazil's Oil Industry** <br/>
-(_with Fabio Maciel_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/> <small> [Draft Coming Soon!] <br/> </small>
+(_with [Fabio Maciel](https://research.vu.nl/en/persons/f%C3%A1bio-bentz-maciel/)_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/> <small> [Draft Coming Soon!] <br/> </small>
 
 # **Work in Progress**<br/>
 
