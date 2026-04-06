@@ -65,7 +65,9 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 
 **The Local Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_LocalAdvantage_WorkingPaper.pdf){:target="_blank"} <br/> </small>
 
-**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> <small> [Working Paper](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
+**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
+(_Revise and Resubmit at the Journal of Economic Behavior and Organization_)<br/>
+<small> [Working Paper](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
 
 **Solar Adoption as Agricultural Adaptation: Evidence from California’s Central Valley** (_with Cam McClure_) <br/> <small> [Working Paper](/files/McClure_Katovich_California_Solar_WorkingPaper.pdf){:target="_blank"}<br/> </small>
 
