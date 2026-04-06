@@ -60,7 +60,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 # **Working Papers**<br/>
 
 **Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
-(_Revise and Resubmit at the Journal of Economic Behavior and Organization_)<br/>
+_Revise and Resubmit at the Journal of Economic Behavior and Organization_<br/>
 <small> [Working Paper](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
 
 **Slaying Giants? Dynamic Impacts of Sanctions on Oil Companies**<br/>
