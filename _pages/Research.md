@@ -84,7 +84,7 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
-
+**Opting Out of a Boom: Long-Term Impacts of New York’s Fracking Moratorium** <br/> (_with [Danlu Xu](https://are.uconn.edu/person/danlu-xu/)_)
 
 
  
