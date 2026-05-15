@@ -64,7 +64,7 @@ _Revise and Resubmit at the Journal of Economic Behavior and Organization_<br/>
 <small> [Working Paper](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
 
 **Slaying Giants? Dynamic Impacts of Sanctions on Oil Companies**<br/>
-<small> [Working Paper](/files/Katovich_OilSanctions_WorkingPaper.pdf){:target="_blank"} <br/> 
+<small> [Working Paper (Economists for Ukraine Series)](/files/Katovich_OilSanctions_WorkingPaper.pdf){:target="_blank"} <br/> 
 Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=FWUhwd-cdUQ&t=1s) </small>
 
 **The Local Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_LocalAdvantage_WorkingPaper.pdf){:target="_blank"} <br/> </small>
