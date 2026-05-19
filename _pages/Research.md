@@ -76,9 +76,9 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 
 # **Work in Progress**<br/>
 
-**Seeds of Influence: The Political Economy of Brazil's Soy Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
+**Digital Traceability for Deforestation-Free Supply Chains: Evidence from Cocoa Production in Ghana** <br/> (_with [George Akandinge](https://are.uconn.edu/person/george-akandinge/), [Francisco Alpízar](https://franciscoalpizar.com/), Mensah Cobbinah, [Utsoree Das](https://utsoree.github.io/), and [Salvatore di Falco](https://sdifalco.weebly.com/)_) RCT In-Progress: [AEA RCT Pre-Registration](https://www.socialscienceregistry.org/trials/18649) <br/>
 
-**Digital Traceability for Deforestation-Free Supply Chains: Evidence from Cocoa Production in Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://utsoree.github.io/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
+**Seeds of Influence: The Political Economy of Brazil's Soy Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
 
 **Supply Response to Oil Production Taxes: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and [Pritam Saha](https://s-pritam.github.io/)_)<br/> 
 
