@@ -73,12 +73,13 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 
 **The Local Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_LocalAdvantage_WorkingPaper.pdf){:target="_blank"} <br/> </small>
 
-**Do Local Content Requirements Boost Firm Performance? Evidence from Brazil's Oil Industry** <br/>
+**Made in Brazil: Job Creation and Firm Performance Under a Local Content Requirement** <br/>
 (_with [Fabio Maciel](https://research.vu.nl/en/persons/f%C3%A1bio-bentz-maciel/)_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/> <small> [Draft Coming Soon!] <br/> </small>
 
 # **Work in Progress**<br/>
 
 **Digital Traceability for Deforestation-Free Supply Chains: Evidence from Cocoa Production in Ghana** <br/> (_with [George Akandinge](https://are.uconn.edu/person/george-akandinge/), [Francisco Alpízar](https://franciscoalpizar.com/), [Mensah Cobbinah](https://scholar.google.com/citations?user=Z36SF6sAAAAJ&hl=en), [Utsoree Das](https://utsoree.github.io/), and [Salvatore di Falco](https://sdifalco.weebly.com/)_) <br/> 
+_Revise and Resubmit at the Journal of Development Economics (Pre-Registered Report)_<br/>
 <small> RCT In-Progress: [AEA RCT Pre-Registration](https://www.socialscienceregistry.org/trials/18649) <br/> </small>
 
 **Seeds of Influence: The Political Economy of Brazil's Soy Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
