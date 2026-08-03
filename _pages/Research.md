@@ -78,7 +78,7 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 
 # **Work in Progress**<br/>
 
-**Digital Traceability for Deforestation-Free Supply Chains: Evidence from Cocoa Production in Ghana** <br/> (_with [George Akandinge](https://are.uconn.edu/person/george-akandinge/), [Francisco Alpízar](https://franciscoalpizar.com/), [Mensah Cobbinah](https://scholar.google.com/citations?user=Z36SF6sAAAAJ&hl=en), [Utsoree Das](https://utsoree.github.io/), and [Salvatore di Falco](https://sdifalco.weebly.com/)_) <br/> 
+**Digital Traceability for Deforestation-Free Supply Chains: Evidence from Cocoa Production in Ghana** <br/> (_with [George Akandinge](https://are.uconn.edu/person/george-akandinge/), [Francisco Alpízar](https://franciscoalpizar.com/), [Mensah Cobbinah](https://scholar.google.com/citations?user=Z36SF6sAAAAJ&hl=en), [Utsoree Das](https://utsoree.github.io/), and [Salvatore Di Falco](https://sdifalco.weebly.com/)_) <br/> 
 _Conditionally Accepted via Pre-Results Review at the Journal of Development Economics_<br/>
 <small> RCT In-Progress: [AEA RCT Pre-Registration](https://www.socialscienceregistry.org/trials/18649) <br/> </small>
 
