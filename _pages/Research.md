@@ -45,13 +45,11 @@ Environmental Science and Technology, Vol. 58(1), pp. 323–332 (2024)<br/>
 Media Coverage: &nbsp; [The Economist](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling){:target="_blank"} &nbsp; [Los Angeles Times](https://www.latimes.com/environment/newsletter/2024-01-11/column-yes-wind-turbines-kill-birds-but-fracking-is-much-worse-boiling-point){:target="_blank"} &nbsp; [Die Presse (Austria)](https://www.diepresse.com/17998356/windraeder-schaden-den-voegeln-nicht){:target="_blank"} &nbsp; [Courrier International (France)](https://www.courrierinternational.com/article/biodiversite-les-eoliennes-tueuses-d-oiseaux-un-argument-a-relativiser){:target="_blank"} &nbsp; [Focus Online (Germany)](https://www.focus.de/auto/elektroauto/news/windkraft-und-voegel-forscher-zeigen-was-die-tiere-wirklich-gefaehrdet_id_259578605.html){:target="_blank"} &nbsp; [BNNVARA (Netherlands)](https://www.bnnvara.nl/joop/artikelen/vogels-halen-schouders-op-over-windmolens-maar-verafschuwen-olie-en-gasboringen){:target="_blank"} &nbsp; [El Nacional (Spain)](https://www.elnacional.cat/oneconomia/es/sostenibilidad/jaume-morron-navarra-ha-installat-10-vegades-mes-renovables-catalunya-en-darrers-8-anys_1151787_102.html){:target="_blank"} &nbsp; [ETC (Sweden)](https://www.etc.se/klimat-miljo/ny-studie-vindkraft-mindre-skadligt-foer-faaglar-aen-fossil-energi){:target="_blank"} &nbsp; [Le Temps (Switzerland)](https://www.letemps.ch/sciences/environnement/les-eoliennes-sont-moins-dangereuses-pour-les-oiseaux-que-la-production-de-petrole){:target="_blank"} &nbsp; [Tages Anzeiger (Switzerland)](https://www.tagesanzeiger.ch/windenergie-vogelfreundlicher-als-foerderung-von-oel-und-gas-256597540201){:target="_blank"} &nbsp; [Basler Zeitung (Switzerland)](https://www.bazonline.ch/windenergie-vogelfreundlicher-als-foerderung-von-oel-und-gas-256597540201){:target="_blank"} &nbsp; [Berner Zeitung (Switzerland)](https://www.bernerzeitung.ch/windenergie-vogelfreundlicher-als-foerderung-von-oel-und-gas-256597540201){:target="_blank"} &nbsp; [Der Bund (Switzerland)](https://www.derbund.ch/windenergie-vogelfreundlicher-als-foerderung-von-oel-und-gas-256597540201){:target="_blank"} &nbsp; [Enrique Dans (Medium Blog)](https://medium.com/enrique-dans/dont-take-my-word-for-it-the-science-shows-that-wind-turbines-do-not-harm-birdlife-be5123d777c1){:target="_blank"} &nbsp; [Big Pivots (USA)](https://bigpivots.com/study-examines-impacts-of-wind-farms-on-birds-and-also-fossil-fuel-drilling/){:target="_blank"} &nbsp; [The Song Sparrow (Quebec)](/files/Song_Sparrow_Profile.pdf){:target="_blank"}
 </small>
 
-**The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis** <br/>
-(_with [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)_)<br/>
+**The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis** (_with [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)_)<br/>
 Nova Economia, Vol. 28(1), pp. 7-38 (2018)<br/>
  <small> [Journal Link](https://doi.org/10.1590/0103-6351/3943){:target="_blank"} &nbsp;  [PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"} </small>
 
-**Are GMO Policies "Trade Related"? Empirical Analysis of Latin America** <br/>
-(_with [Pamela Smith](https://www.apec.umn.edu/people/pamela-smith)_)<br/>
+**Are GMO Policies "Trade Related"? Empirical Analysis of Latin America** (_with [Pamela Smith](https://www.apec.umn.edu/people/pamela-smith)_)<br/>
 Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
  <small> [Journal Link](https://doi.org/10.1093/aepp/ppw021){:target="_blank"}  </small>
 
@@ -70,10 +68,9 @@ _Revise and Resubmit at the Journal of Environmental Economics and Management_<b
 <small> [Working Paper (Economists for Ukraine Series)](/files/Katovich_OilSanctions_WorkingPaper.pdf){:target="_blank"} <br/> 
 Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=FWUhwd-cdUQ&t=1s) </small>
 
-**The Local Advantage: Firm Selection Under Weak Institutions** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_LocalAdvantage_WorkingPaper.pdf){:target="_blank"} <br/> </small>
+**The Local Advantage: Firm Selection Under Weak Institutions** (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_LocalAdvantage_WorkingPaper.pdf){:target="_blank"} <br/> </small>
 
-**Made in Brazil: Job Creation and Firm Performance Under a Local Content Requirement** <br/>
-(_with [Fabio Maciel](https://research.vu.nl/en/persons/f%C3%A1bio-bentz-maciel/)_) <br/> <small> [Draft Available Upon Request] <br/> </small>
+**Made in Brazil: Job Creation and Firm Performance Under a Local Content Requirement** (_with [Fabio Maciel](https://research.vu.nl/en/persons/f%C3%A1bio-bentz-maciel/)_) <br/> <small> [Draft Available Upon Request] <br/> </small>
 
 # **Work in Progress**<br/>
 
@@ -81,7 +78,7 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 _Conditionally Accepted via Pre-Results Review at the Journal of Development Economics_<br/>
 <small> RCT In-Progress: [AEA RCT Pre-Registration](https://www.socialscienceregistry.org/trials/18649) <br/> </small>
 
-**Seeds of Influence: The Political Economy of Brazil's Soy Boom** <br/> (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
+**Seeds of Influence: The Political Economy of Brazil's Soy Boom** (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
 
 **Supply Response to Oil Production Taxes: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and [Pritam Saha](https://s-pritam.github.io/)_)<br/> 
 
