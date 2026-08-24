@@ -84,7 +84,7 @@ _Conditionally Accepted via Pre-Results Review at the Journal of Development Eco
 
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and [Fabio Maciel](https://research.vu.nl/en/persons/f%C3%A1bio-bentz-maciel/)_)
 
-**Opting Out of a Boom: Long-Term Impacts of New York’s Fracking Moratorium** <br/> (_with [Danlu Xu](https://are.uconn.edu/person/danlu-xu/)_)
+**Opting Out of a Boom: Long-Term Impacts of New York’s Fracking Moratorium** (_with [Danlu Xu](https://are.uconn.edu/person/danlu-xu/)_)
 
 
  
