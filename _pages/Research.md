@@ -21,7 +21,8 @@ author_profile: false
 
 # **Publications**<br/>
 **The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> 
-Oxford Review of Economic Policy, Vol. 42, No. 1 (2026) <br/> <small> [Journal Link](https://academic.oup.com/oxrep/article/42/1/170/8750855){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"} &nbsp; [World Bank Report Chapter](https://openknowledge.worldbank.org/server/api/core/bitstreams/9e2dd3d3-1e60-4479-85f9-a0dc318fc359/content){:target="_blank"}<br/> </small>
+Oxford Review of Economic Policy, Vol. 42, No. 1 (2026) <br/> <small> [Journal Link](https://academic.oup.com/oxrep/article/42/1/170/8750855){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"} &nbsp; [World Bank Report Chapter](https://openknowledge.worldbank.org/server/api/core/bitstreams/9e2dd3d3-1e60-4479-85f9-a0dc318fc359/content){:target="_blank"}<br/> 
+Media Coverage: &nbsp; [Financial Times](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1) </small>
 
 **Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/)_) <br/>
 Journal of the Association of Environmental and Resource Economists, Vol. 13, No. 1. (2026) <br/>
