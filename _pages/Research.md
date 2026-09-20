@@ -22,7 +22,7 @@ author_profile: false
 # **Publications**<br/>
 
 **Explosive Diversification: Cartel Adaptation to Crackdowns in Mexico** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
-_Accepted at the Journal of Economic Behavior and Organization_<br/>
+Accepted at the Journal of Economic Behavior and Organization<br/>
 <small> [Open Access Pre-Print](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
 
 **The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> 
