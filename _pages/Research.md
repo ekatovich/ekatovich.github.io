@@ -20,6 +20,11 @@ author_profile: false
 </style>
 
 # **Publications**<br/>
+
+**Explosive Diversification: Cartel Adaptation to Crackdowns in Mexico** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
+_Accepted at the Journal of Economic Behavior and Organization_<br/>
+<small> [Open Access Pre-Print](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
+
 **The Global Distribution of Critical Mining Impacts** (_with [Jonah Rexer](https://www.jonahrexer.com/)_)<br/> 
 Oxford Review of Economic Policy, Vol. 42, No. 1 (2026) <br/> <small> [Journal Link](https://academic.oup.com/oxrep/article/42/1/170/8750855){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Rexer_CriticalMiningImpacts.pdf){:target="_blank"} &nbsp; [World Bank Report Chapter](https://openknowledge.worldbank.org/server/api/core/bitstreams/9e2dd3d3-1e60-4479-85f9-a0dc318fc359/content){:target="_blank"}<br/> 
 Media Coverage: &nbsp; [Financial Times](https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1) </small>
@@ -56,10 +61,6 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 
 
 # **Working Papers**<br/>
-
-**Explosive Diversification: Cartel Adaptation to Crackdowns in Mexico** (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
-_Revise and Resubmit at the Journal of Economic Behavior and Organization_<br/>
-<small> [Working Paper](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"}<br/> </small>
 
 **Solar Adoption as Agricultural Adaptation: Evidence from California’s Central Valley** (_with Cam McClure_) <br/> 
 _Revise and Resubmit at the Journal of Environmental Economics and Management_<br/>
