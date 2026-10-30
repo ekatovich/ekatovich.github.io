@@ -72,7 +72,7 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 
 **The Local Advantage: Firm Selection Under Weak Institutions** (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://utsoree.github.io/)_)<br/> <small> [Working Paper](/files/DKR_LocalAdvantage_WorkingPaper.pdf){:target="_blank"} <br/> </small>
 
-**Made in Brazil: Job Creation and Firm Performance Under a Local Content Requirement** (_with [Fabio Maciel](https://research.vu.nl/en/persons/f%C3%A1bio-bentz-maciel/)_) <br/> <small> [Draft Available Upon Request] <br/> </small>
+**Made in Brazil: Job Creation and Firm Performance Under a Local Content Requirement** (_with [Fabio Maciel](https://research.vu.nl/en/persons/f%C3%A1bio-bentz-maciel/)_) <br/> <small> [Working Paper](/files/Katovich_Maciel_LocalContentRequirement.pdf){:target="_blank"} <br/> </small>
 
 # **Work in Progress**<br/>
 
