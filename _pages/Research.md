@@ -80,7 +80,7 @@ Media Coverage: &nbsp; [Policy Impacts Podcast](https://www.youtube.com/watch?v=
 _Conditionally Accepted via Pre-Results Review at the Journal of Development Economics_<br/>
 <small> RCT In-Progress: [AEA RCT Pre-Registration](https://www.socialscienceregistry.org/trials/18649) <br/> </small>
 
-**Seeds of Influence: The Political Economy of Brazil's Soy Boom** (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
+**Economic Origins of Political Power: Evidence from Brazil's Agribusiness Boom** (_with [Ricardo Dahis](https://www.ricardodahis.com/)_)
 
 **Supply Response to Oil Production Taxes: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and [Pritam Saha](https://s-pritam.github.io/)_)<br/> 
 
