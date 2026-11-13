@@ -16,6 +16,7 @@ Previously, I was a Postdoctoral Scholar at the [University of Geneva](https://w
 <br/> 
 
 Recent media and public engagement: <br/> <small>
+[UConn Today: Sourcing Deforestation-Free Cocoa in Ghana](https://today.uconn.edu/2026/11/helping-ghanian-cocoa-farmers-prove-properties-are-deforestation-free/) <br/>
 [VoxDev: How Landholders Shape Politics in the Brazilian Amazon](https://voxdev.org/topic/agriculture/agricultural-patronage-how-large-landholders-shape-politics-brazilian-amazon) <br/>
 [Policy Implications Podcast: Oil Sanctions on Russia’s Energy Sector](https://www.youtube.com/watch?v=FWUhwd-cdUQ&t=1s) <br/>
 [UConn Today: A UConn Economist Explains Venezuela's Oil Industry](https://today.uconn.edu/2026/01/can-venezuelas-oil-bring-down-gas-prices-a-uconn-economist-explains/) <br/>
