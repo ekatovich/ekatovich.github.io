@@ -22,7 +22,7 @@ author_profile: false
 # **Publications**<br/>
 
 **Explosive Diversification: Cartel Adaptation to Crackdowns in Mexico** (_with [Itzel De Haro](https://itzeldeharo.com/)_)<br/> 
-Accepted at the Journal of Economic Behavior and Organization<br/>
+Forthcoming at the Journal of Economic Behavior and Organization<br/>
 <small> [Open Access Pre-Print](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"} &nbsp; [Replication Package](https://dataverse.harvard.edu/dataverse/JEBO_ExplosiveDiv){:target="_blank"}<br/> </small>
 
 **Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/>
