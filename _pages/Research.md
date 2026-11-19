@@ -22,8 +22,8 @@ author_profile: false
 # **Publications**<br/>
 
 **Explosive Diversification: Cartel Adaptation to Crackdowns in Mexico** (_with [Itzel De Haro](https://itzeldeharo.com/)_)<br/> 
-Forthcoming at the Journal of Economic Behavior and Organization<br/>
-<small> [Open Access Pre-Print](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"} &nbsp; [Replication Package](https://dataverse.harvard.edu/dataverse/JEBO_ExplosiveDiv){:target="_blank"}<br/> </small>
+Journal of Economic Behavior and Organization, Vol. 252, 107835 (2026)<br/>
+<small> [Journal Link](https://authors.elsevier.com/a/1o8ENc24bEvFz){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/DeHaroLopez_and_Katovich_ExplosiveDiversification.pdf){:target="_blank"} &nbsp; [Replication Package](https://dataverse.harvard.edu/dataverse/JEBO_ExplosiveDiv){:target="_blank"}<br/> </small>
 
 **Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/>
 The Economic Journal, Vol. 136, No. 679 (2026) <br/>   <small> [Journal Link](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueaf123/8381223?redirectedFrom=fulltext){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"} &nbsp; [Replication Package](https://zenodo.org/records/17536487){:target="_blank"}   <br/>
